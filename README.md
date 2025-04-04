@@ -20,3 +20,5 @@ A comprehensive local government website for South Kalimantan with news, service
 - Backend: Node.js with Express
 - Data: In-memory storage
 - Tools: Vite, Zod, React Query
+
+habizinnia@gmail.com
