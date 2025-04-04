@@ -2,6 +2,8 @@
 
 A comprehensive local government website for South Kalimantan with news, services information, and document repository.
 
+![Alt text for the image](1.png "Optional title for the image")
+
 ## Features
 
 - Home page with latest news and services
